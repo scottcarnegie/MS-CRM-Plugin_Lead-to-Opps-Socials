@@ -1,0 +1,8 @@
+c:\users\scott.carnegie.orangutech.000\documents\visual studio 2015\Projects\LeadToOpp_Socials\LeadToOpp_Socials\bin\Debug\LeadToOpp_Socials.dll
+c:\users\scott.carnegie.orangutech.000\documents\visual studio 2015\Projects\LeadToOpp_Socials\LeadToOpp_Socials\bin\Debug\LeadToOpp_Socials.pdb
+c:\users\scott.carnegie.orangutech.000\documents\visual studio 2015\Projects\LeadToOpp_Socials\LeadToOpp_Socials\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\scott.carnegie.orangutech.000\documents\visual studio 2015\Projects\LeadToOpp_Socials\LeadToOpp_Socials\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\users\scott.carnegie.orangutech.000\documents\visual studio 2015\Projects\LeadToOpp_Socials\LeadToOpp_Socials\obj\Debug\LeadToOpp_Socials.dll
+c:\users\scott.carnegie.orangutech.000\documents\visual studio 2015\Projects\LeadToOpp_Socials\LeadToOpp_Socials\obj\Debug\LeadToOpp_Socials.pdb
+C:\Users\scott.carnegie.ORANGUTECH.000\documents\visual studio 2015\Projects\LeadToOpp_Socials\LeadToOpp_Socials\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\scott.carnegie.ORANGUTECH.000\documents\visual studio 2015\Projects\LeadToOpp_Socials\LeadToOpp_Socials\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
